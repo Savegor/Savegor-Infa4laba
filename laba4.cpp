@@ -5,5 +5,12 @@ int third(){
     cin>>b;
     return b;
 }
+int second ()
+{
+    int c;
+    cin >>c;
+    return c;
+}
+
 
 
