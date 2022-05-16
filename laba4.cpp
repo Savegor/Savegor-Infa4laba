@@ -12,5 +12,10 @@ int second ()
     return c;
 }
 
+int main()
+{
+	cout <<second()+third();
+}
+
 
 
